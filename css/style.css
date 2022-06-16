@@ -20,9 +20,9 @@ time, mark, audio, video {
 }
 /* HTML5 display-role reset for older browsers */
 
-*{
+/**{
 	outline: solid 1px red;
-}
+}*/
 
 
 .header{
